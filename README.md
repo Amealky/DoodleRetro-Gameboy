@@ -8,8 +8,8 @@
 
 ## Preview
 <p float="left" align="center">
-  <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NDgucG5n/original/kt3AjI.png" width="500" />
-  <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NTAucG5n/original/uFRQym.png" width="500" /> 
+  <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NDgucG5n/original/kt3AjI.png" width="300" />
+  <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NTAucG5n/original/uFRQym.png" width="300" /> 
 </p>
 
 ## Overview
