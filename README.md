@@ -7,8 +7,10 @@
 
 
 ## Preview
-![Preview](https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NDgucG5n/original/kt3AjI.png)
-![Preview](https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NTAucG5n/original/uFRQym.png)
+<p float="left" align="center">
+  <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NDgucG5n/original/kt3AjI.png" width="500" />
+  <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NTAucG5n/original/uFRQym.png" width="500" /> 
+</p>
 
 ## Overview
 This project is a tribute of the mobile Doodle Jump game, like the mobile game you climb a place by jumping without any rest on platforms, if you fall you loose !
