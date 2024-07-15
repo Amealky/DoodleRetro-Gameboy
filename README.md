@@ -2,11 +2,12 @@
 
 <h1 align="center"> DoodleRetro :video_game: :space_invader: <h1>
 
-<img src="https://img.shields.io/badge/platform-gameboy-yellowgreen" />
-<img src="https://img.shields.io/badge/language-c-lightgrey" />
+<p align="center">
+        <img src="https://img.shields.io/badge/Gameboy-%204--2--1?style=for-the-badge&label=platform&color=yellowgreen">
+        <img src="https://img.shields.io/badge/C-%204--2--1?style=for-the-badge&logo=SDL&logoColor=white&label=language&color=lightgrey">
+</p>
 
 
-## Preview
 <p float="left" align="center">
   <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NDgucG5n/original/kt3AjI.png" width="300" />
   <img src="https://img.itch.zone/aW1hZ2UvODMwOTc4LzQ2NTY2NTAucG5n/original/uFRQym.png" width="300" /> 
